@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://howimagine.co.uk/$1"
+ }
+  ]
+}
